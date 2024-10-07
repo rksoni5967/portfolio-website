@@ -16,14 +16,14 @@ I am a passionate data scientist with a background in [ Engineering with good un
 ## Projects
 
 ### 1. Diwali sales analysis
-- **Description:** Diwali sales data aimed at identifying key insights and trends and key focuses on    customer behavior, product performance, revenue generation, and demographics.
+- **Description:** Diwali sales data aimed at identifying key insights and trends and key focuses on customer behavior, product performance, revenue generation, and demographics.
 - **Technologies:** Python, Pandas, Seaborn, Matplotlib.
 - **Link:** [GitHub Repository](https://github.com/rksoni5967/Diwali-sales-analysis-.git)
 
-### 2. Project Name
-- **Description:** Brief description of the project, its objectives, and key outcomes.
-- **Technologies:** R, ggplot2, Shiny, etc.
-- **Link:** [GitHub Repository](link-to-your-project)
+### 2. Bank personal loan data analysis
+- **Description:** explore the data, generate insights, and provide actionable recommendations.
+- **Technologies:** Python, Pandas, Seaborn, Matplotlib.
+- **Link:** [GitHub Repository](https://github.com/rksoni5967/finance-data-analysis.git)
 
 
 ## Technologies Used

@@ -25,7 +25,7 @@ I am a passionate data scientist with a background in [ Engineering with good un
 - **Technologies:** Python, Pandas, Seaborn, Matplotlib.
 - **Link:** [GitHub Repository](https://github.com/rksoni5967/finance-data-analysis.git)
 
-### 1. car price prediction
+### 3. car price prediction
 - **Description:**  A machine learning project aimed at predicting car prices based on features such as model, year, mileage, fuel type, transmission, and more. The project helps in understanding how different factors influence the car's resale value.
 - **Technologies:** Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn.
 - **Link:** [GitHub Repository]

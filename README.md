@@ -26,6 +26,12 @@ I am a passionate data scientist with a background in [ Engineering with good un
 - **Link:** [GitHub Repository](https://github.com/rksoni5967/finance-data-analysis.git)
 
 
+### 3. Movie Recommender System
+- **Description:** Machine learning-based movie recommender system, it P\provide personalized movie recommendations. Suggest movies to users based on their preferences and history.
+- **Technologies:** Python, Pandas, Seaborn, Matplotlib, sklearn, linear regression .
+- **Link:** [GitHub Repository](-----------)
+
+
 ## Technologies Used
 
 - Programming Languages: Python and SQL
